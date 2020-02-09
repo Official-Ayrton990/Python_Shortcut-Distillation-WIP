@@ -11,14 +11,10 @@ pip install requeriments.txt
 python3 main.py
 ```
 (Puede ser el caso que el comando sea solo python, dependiendo de la instalación realizada)
+Hecho por:
 
-Integrantes y creadores:
-
-*Miriam Gaytan Torres
 *Carlos Ayrton López Arroyo
-*Erika Maldonado López
-*Sugey Palacios Guzmán
-*Karen Rodriguez Tinoco
+
 <--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
                     GNU GENERAL PUBLIC LICENSE
